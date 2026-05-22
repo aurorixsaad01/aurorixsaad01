@@ -37,8 +37,8 @@ I am a developer and entrepreneur focused on leveraging modern technology to sol
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aurorixsaad01&show_icons=true&hide_border=true&theme=radical" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aurorixsaad01&layout=compact&hide_border=true&theme=radical" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=aurorixsaad01&show_icons=true&hide_border=true&theme=transparent" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=aurorixsaad01&layout=compact&hide_border=true&theme=transparent" alt="Top Languages" />
 </div>
 
 ---
