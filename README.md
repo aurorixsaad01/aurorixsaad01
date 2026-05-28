@@ -1,40 +1,73 @@
-<h1 align="center">Hi there, I'm Saad Mushtaque Ansari 👋</h1>
+<h1 align="center">Saad Mushtaque Ansari</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+Tech+Entrepreneur;Bridging+Code+and+Business+Strategy;Building+Intelligent%2C+Scalable+Solutions" alt="Typing SVG" />
+  <p><strong>Preparing Researcher | Edge AI for Sustainable Terraced Agriculture</strong><br>
+  India–Japan Research Bridge</p>
 </div>
 
 ---
 
-### 🚀 About Me
-
-I am a developer and entrepreneur focused on leveraging modern technology to solve real-world business challenges. I specialize in backend architecture, artificial intelligence research, and streamlining operations through code. 
-
-- 💼 Currently scaling retail operations through digital transformation.
-- 🧠 Deepening my expertise in **Artificial Intelligence, Data Science, and Machine Learning**.
-- 🛠️ Building robust applications with a focus on clean architecture and automation.
-- 📫 How to reach me: **aurorixsaad@gmail.com**
+<div align="center">
+  <img src="tanada-hero.jpg" alt="Tanada terraced rice paddies at golden hour" width="100%">
+</div>
 
 ---
 
-### 💻 Tech Stack & Tools
+### Research Focus
+
+I am a final-year B.Tech student transitioning into TinyML and edge AI for sustainable agriculture in complex terrains. As a preparing novice researcher, my work explores how Japanese technology and insights from cultural landscapes (Tanada) can inform scalable, offline multi-sensor systems for precise irrigation — with direct applicability to smallholder terraces in India and across Asia.
+
+My approach begins with laptop-first prototyping (simulations, synthetic data, and interactive tools) before moving toward solar-powered, offline deployment on resource-constrained devices.
+
+- Core interest: Multi-sensor fusion, contradiction resolution, and terrain/growth-stage aware decision systems.
+- Goal: Contribute to resilient food systems while respecting traditional agricultural knowledge and landscapes.
+
+📫 **aurorixsaad@gmail.com**
+
+---
+
+### Core Research
+
+- Development of **TanadaResolve** — an interactive simulator for multi-sensor irrigation logic with explicit contradiction handling (acoustic, dielectric, environmental, and forecast signals).
+- **TanadaSynth** — synthetic multi-sensor dataset generator for terraced paddy environments (terrain, microclimate, growth stage).
+- Evolution of existing mobile decision-support work toward fully offline TinyML implementations.
+
+---
+
+### Current Projects
+
+- **The Mobile DSS — Planting Decision Support System**  
+  Flutter-based mobile application integrating real-time weather, AI plant diagnostics (vision + language models), ambient light sensing, and personalized care recommendations. Foundational work in practical agricultural decision support.
+
+- **TanadaResolve** (in development)  
+  Web-based simulator demonstrating contradiction-resolving irrigation logic for terraced systems. Japan and India presets with transparent decision explanations.
+
+- **TanadaSynth** (in development)  
+  Python toolkit for generating realistic multi-sensor terraced paddy datasets to support model training and scenario testing.
+
+---
+
+### Broader Interests
+
+1. Other fields of personal research  
+2. Stomata Inspired Self-Ventilating Wall — exploration of biomimetic, responsive systems for efficient environmental control  
+3. Deep-time perspective: What we see, what we eat, what we breathe — it is possible that the foundations for balanced living emerged 1 lakh years ago
+
+---
+
+### Tools & Methods
 
 <div align="left">
-  <img src="https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
-  
-  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white" alt="Gemini API" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/Edge%20Impulse-00AEEF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEyIDJMMyA3djEwbDkgNCA5LTdWN3oiLz48L3N2Zz4=" alt="Edge Impulse" />
 </div>
 
 ---
 
-### 📊 GitHub Analytics
+### GitHub Analytics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=aurorixsaad01&show_icons=true&hide_border=true&theme=transparent" alt="GitHub Stats" />
@@ -43,7 +76,7 @@ I am a developer and entrepreneur focused on leveraging modern technology to sol
 
 ---
 
-### 🐍 Contribution Graph
+### Contribution Graph
 
 <div align="center">
   <picture>
