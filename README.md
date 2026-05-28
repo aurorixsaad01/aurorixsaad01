@@ -49,9 +49,10 @@ My approach begins with laptop-first prototyping (simulations, synthetic data, a
 
 ### Broader Interests
 
-1. Other fields of personal research  
-2. Stomata Inspired Self-Ventilating Wall — exploration of biomimetic, responsive systems for efficient environmental control  
-3. Deep-time perspective: What we see, what we eat, what we breathe — it is possible that the foundations for balanced living emerged 1 lakh years ago
+Other fields of personal research:  
+1. Stomata Inspired Self-Ventilating Wall — exploration of biomimetic, responsive systems for efficient environmental control. 
+2. Deep-time perspective fascinates me — the energy sustaining what we see, eat, and breathe today may have begun its journey nearly one lakh years ago before becoming part of the living systems around us. This interconnected flow between energy, environment, and life inspires my research curiosity.
+
 
 ---
 
